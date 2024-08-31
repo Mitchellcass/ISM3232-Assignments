@@ -1,2 +1,6 @@
-# ISM3232-Assignments
+# Read Me First
+
 My first repo
+
+I want to learn to use GitHub
+
